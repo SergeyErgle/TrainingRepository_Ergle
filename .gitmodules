@@ -1,0 +1,4 @@
+[submodule "submodules"]
+	path = submodules
+	url = https://github.com/SergeyErgle/SubmoduleRepository_Ergle
+	branch = main
